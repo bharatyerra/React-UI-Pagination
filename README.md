@@ -1,7 +1,6 @@
 # React-UI-Pagination
-A UI Pagination Component using React JS
 
-A reusable paginate component built with React JS and ES6
+A reusable ui paginate component built with React JS and ES6
 
 The paginate component splits any list into pages, depending upon the page size provided
 
