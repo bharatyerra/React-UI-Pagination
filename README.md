@@ -14,6 +14,8 @@ The component expects a full list, refreshPage callback and page size
 
 Babel is used to convert ES6/JSX to ES5/js files to cater for browsers like IE9/IE11
 
+The preview is available at https://codepen.io/bharatyerra/pen/wgLwMB?editors=0010
+
 
 
 
