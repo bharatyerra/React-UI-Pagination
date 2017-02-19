@@ -1,0 +1,16 @@
+{
+  "name": "reactpaginate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel js -d dist"
+  },
+  "author": "bharatyerra",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0"
+  }
+}
