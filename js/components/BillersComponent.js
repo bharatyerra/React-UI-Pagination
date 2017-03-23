@@ -70,14 +70,14 @@
     }
 
     refreshPage(pageBillers) {
-        console.log('billers: inside refreshPage', pageBillers);
+        console.log('###billers: inside refreshPage', pageBillers);
         this.setState({
             billers: pageBillers
         });
     }
 
     render() {
-        console.log('billers: inside render function', this.state.billers);
+        console.log('###billers: inside render function', this.state.billers);
         return (
           <div>
             <br />
